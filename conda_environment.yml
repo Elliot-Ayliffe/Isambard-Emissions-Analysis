@@ -1,0 +1,11 @@
+name: lifecycle_JN
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas=2.2.2
+  - ipykernel=6.28.0
+  - ipython=8.27.0
+  - jupyter
+  - matplotlib=3.9.2
+
