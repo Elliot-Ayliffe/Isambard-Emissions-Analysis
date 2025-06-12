@@ -1,4 +1,4 @@
-name: lifecycle_JN
+name: Jupyter_Analyses
 channels:
   - defaults
 dependencies:
